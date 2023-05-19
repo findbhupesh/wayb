@@ -1,0 +1,7 @@
+{
+    "baudrate" : 2400,
+    "stopbit" : 1,
+    "port" : "COM6",
+    "test" : true
+    }
+    
